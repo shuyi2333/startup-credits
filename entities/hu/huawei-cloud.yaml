@@ -24,6 +24,7 @@ programs:
     program_slug: huawei-cloud-startup-program
     program_slug_aliases: []
     title: Huawei Cloud Startup Program
+    summary: The Huawei Cloud Startup Program supports eligible startups with cloud cash-credit vouchers and cloud-migration resources.
     source_ids:
       - src_3ef2d1582a51a254023a361470247597256cb43d44c4183a2bc7857e21690e45
 offers:
